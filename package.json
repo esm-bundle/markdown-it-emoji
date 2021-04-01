@@ -1,6 +1,6 @@
 {
   "name": "@esm-bundle/markdown-it-emoji",
-  "version": "0.0.0-unpublished.0",
+  "version": "2.0.0",
   "description": "ESM bundle for markdown-it-emoji",
   "main": "index.js",
   "module": "esm/index.js",
