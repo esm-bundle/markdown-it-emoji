@@ -10,7 +10,7 @@ specifiers:
   karma: 6.3.19
   karma-firefox-launcher: 2.1.2
   karma-jasmine: 5.0.0
-  markdown-it-emoji: 2.0.0
+  markdown-it-emoji: 2.0.2
   mocha: 9.2.2
   pinst: 3.0.0
   prettier: 2.6.2
@@ -30,7 +30,7 @@ devDependencies:
   karma: 6.3.19
   karma-firefox-launcher: 2.1.2
   karma-jasmine: 5.0.0_karma@6.3.19
-  markdown-it-emoji: 2.0.0
+  markdown-it-emoji: 2.0.2
   mocha: 9.2.2
   pinst: 3.0.0
   prettier: 2.6.2
@@ -1976,8 +1976,8 @@ packages:
       semver: 6.3.0
     dev: true
 
-  /markdown-it-emoji/2.0.0:
-    resolution: {integrity: sha512-39j7/9vP/CPCKbEI44oV8yoPJTpvfeReTn/COgRhSpNrjWF3PfP/JUxxB0hxV6ynOY8KH8Y8aX9NMDdo6z+6YQ==}
+  /markdown-it-emoji/2.0.2:
+    resolution: {integrity: sha512-zLftSaNrKuYl0kR5zm4gxXjHaOI3FAOEaloKmRA5hijmJZvSjmxcokOLlzycb/HXlUFWzXqpIEoyEMCE4i9MvQ==}
     dev: true
 
   /media-typer/0.3.0:
